@@ -1,4 +1,5 @@
 # Compund interest calculator
+# Inout - principal, rate, time, number, interest
 import java.util.Scanner;
 
 public class Main {
